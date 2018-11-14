@@ -1,0 +1,73 @@
+body {
+    
+    background-image: url("background.jpg");
+    background-size: 100%;
+}
+
+.main-header {
+    text-align: center;
+    color: orangered;
+}
+
+div{
+    color: orangered;
+    width: 80%;
+    margin: 0px 0px 0px 100px;
+}
+
+.thumbsup {
+    width: 190px;
+    margin: 0px;
+    float: left;
+}
+.thumbsdown {
+    width: 250px;
+    margin: 0px;
+    float: left;
+}
+.fiveguys {
+    width: auto;
+    height: auto;
+    margin: 19px;
+    margin-top: -5%;
+    margin-right: 46%;
+    float: right; 
+}
+.jack {
+    width: auto;
+    height: auto;
+    margin: 19px;
+    margin-top: -5%;
+    margin-right: 30%;
+    float: right; 
+}
+.osu-sucks {
+    width: auto;
+    height: auto;
+    margin: 19px;
+    margin-top: -7%;
+    margin-right: 46%;
+    float: right; 
+}
+.side-by-side {
+    width: 1200px; 
+    overflow: hidden;
+}
+
+#cool-things {
+    color: rgb(137, 252, 6);
+}
+
+#not-cool-things {
+    color: red;
+}
+
+a {
+    width: 80%;
+    margin: 50px 0px 0px 100px;
+    color: orangered
+}
+
+a:hover {
+    color: rgb(255, 136, 0);
+}
